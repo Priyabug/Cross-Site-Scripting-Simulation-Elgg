@@ -11,6 +11,9 @@ In this project, vulnerability is to conduct an XSS attack on the modified Elgg 
 
 <br />
 
+![image](https://github.com/user-attachments/assets/a89db4c0-597d-4548-9251-f4f42cef8ce3)
+
+
 
 <h2>Languages and Utilities Used</h2>
 
