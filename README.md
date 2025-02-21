@@ -1,4 +1,4 @@
-<h2>Cross Site Scripting Simulation Elgg</h2>
+<h1>Cross Site Scripting Simulation Elgg</h1>
 
 
 
